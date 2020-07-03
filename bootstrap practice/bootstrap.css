@@ -1,0 +1,27 @@
+body{
+	background-image: url(https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/gray-background-7131-96d780fd18d4eaf58a7331d45573204e@1x.jpg);
+	background-size: cover;
+}
+
+.row{
+	margin-bottom: 200px;
+}
+
+.card-body{
+	background-color: rgb(233, 236, 239);
+}
+
+footer{
+	background-color:rgb(233, 236, 239);
+	padding: 40px 0px;
+	color: #000;
+}
+
+footer a{
+	color:#000;
+	margin-left: 40px;
+}
+
+footer button{
+	margin-right: 30px;
+}
